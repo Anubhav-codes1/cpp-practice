@@ -4,10 +4,26 @@
 
 ##  Topics Covered :
 
-* Basic Input/Output
-* Variables and Data Types
-* Operators (coming soon)
-* Control Statements (coming soon)
+* basic structure
+* Variables and comments
+* datatypes
+* header files
+* operators
+* reference variable
+* typecasting
+* manipulators
+* if-else statements
+* while,do-while and for loops
+* address and dereference operators
+* arrays
+* union and enum
+* function
+* call by value
+* call by reference
+* inline function
+* default arguments
+* recurssion
+* function overloading
 
 ##  Learning Journey :
 
